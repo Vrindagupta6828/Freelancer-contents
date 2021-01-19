@@ -1,7 +1,8 @@
 # Freelancer-contents
 The 111 contents present in freelancing are:
 
-Writing
+## Writing
+
 1. Article Writer
 Write articles for online magazines, news publishers, business journals, etc.
 
@@ -56,7 +57,8 @@ If you have a blog or have the permission to publish on popular blogs, you can t
 18. Academic Writing
 Help struggling students to write their academic papers and college essays.
 
-Graphic Design
+## Graphic Design
+
 19. Logo Designer
 If you’ve got creative skills and knowledge in using Adobe Illustrator or CorelDraw, this is a job that can make you easy money.
 
@@ -126,7 +128,8 @@ Help businesses promote their products with creative flyer designs.
 41. Brochure Designer
 Make brochure designs for brands and businesses.
 
-Web Development
+## Web Development
+
 42. Front-End Designer
 Front-end design is where the look and feel of the website take place.
 
@@ -154,7 +157,8 @@ Take charge of server side tasks, such as configuring apps and implementing prop
 50. Website Builder
 Offer domain name, hosting, and website building services to businesses.
 
-App Development
+## App Development
+
 51. App UI Designer
 Design user interfaces for mobile apps.
 
@@ -164,7 +168,7 @@ Develop the backend of mobile apps.
 53. Game Developer
 Team up with game developers to create great Android and iOS games.
 
-Consulting
+## Consulting
 54. Financial Advisor
 Teach and give advice to startups and businesses how to handle their money.
 
@@ -186,7 +190,8 @@ Help people make diet plans, exercise routines, and to get fit.
 60. Career Advisor
 Help people choose the right career path and find success with their job. Like what I’m trying to do here.
 
-Video Production
+## Video Production
+
 61. Intro Videos
 Create introduction videos for businesses and products.
 
@@ -208,7 +213,8 @@ Create promotional videos for promoting brands on social media platforms.
 67. YouTube Video Editor
 Help YouTubers edit and improve their videos.
 
-Audio Production
+## Audio Production
+
 68. Voice-Over Artist
 Got a great voice? Then start using it right.
 
@@ -224,7 +230,8 @@ Compose background music, sound effects, and jingles.
 72. Record Podcast Ads
 Help online brands create cool ads to be used with podcasts.
 
-Virtual Assistance
+## Virtual Assistance
+
 73. Virtual Assistant
 Help people run a business by handling their meetings, schedules, tasks, etc.
 
@@ -258,14 +265,16 @@ Be an accounting clerk for companies to keep records of their important transact
 83. Technical Assistant
 Assist people and businesses solve their technical issues, such as computer problems.
 
-Animation
+## Animation
+
 84. Explainer Video Animation
 Create characters and animations to use as explainer videos.
 
 85. 3D Model Designer
 Design 3D models for various purposes (furniture, vehicles, etc).
 
-Marketing
+## Marketing
+
 86. Lead Generator
 Help businesses increase leads and grow sales through software such as Magento and Zendesk.
 
@@ -311,7 +320,8 @@ Create content strategies and plans for promoting businesses and brands.
 100. Content Marketer
 Market branded content developed by brands and businesses.
 
-Other
+## Other
+
 101. Freelance Photographer
 Work as a freelance photographer for local clients.
 
